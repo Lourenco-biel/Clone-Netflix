@@ -1,6 +1,6 @@
 # Clone Netflix
 
-<img src="./src/components/img/net.gif" alt="Video-Netfliz">
+<img src="./img/net.gif">
 
 
 > Projeto finalizado 
