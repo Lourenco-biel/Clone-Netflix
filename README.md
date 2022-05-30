@@ -8,18 +8,20 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto trata-se de uma simulação de voto na urna eletrônica! com bastante logica de programação para deixar essa experiencia mais agradavel para você! faça a simulação e nas eleições vote com consciência!😉
+Este projeto trata-se de um clone do site da Netflix! utilizando React.js e Api para deixar essa experiencia mais agradavel para você! Projeto com responsividade!😉
 
 <br>
 
 ## 👨‍💻Link para acesso: 
-<a href="https://lourenco-biel.github.io/Urna-Eletronica/">Aperte aqui ⬅ </a>
+<a href="">Aperte aqui ⬅ </a>
 
 ## ☕ tecnologias utilizadas
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+
 
 <br>
 
@@ -29,7 +31,7 @@ Este projeto trata-se de uma simulação de voto na urna eletrônica! com bastan
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./img/Eu.jpg" width="100px;" alt="Foto do Gabriel Silva no GitHub"/><br>
+        <img src="./components/../src/img/Eu.jpg" width="100px;" alt="Foto do Gabriel Silva no GitHub"/><br>
         <sub>
           <a >Gabriel Ibiapino</a>
         </sub>
@@ -45,4 +47,4 @@ Este projeto trata-se de uma simulação de voto na urna eletrônica! com bastan
 <br>
 
 
-[⬆ Voltar ao topo](#Urna-Eletrônica)<br>
+[⬆ Voltar ao topo](#Clone_Netflix)<br>
