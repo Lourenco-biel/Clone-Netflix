@@ -48,4 +48,4 @@ Este projeto trata-se de um clone do site da Netflix! utilizando a ferramenta Re
 <br>
 
 
-[⬆ Voltar ao topo](#Clone_Netflix)<br>
+[⬆ Voltar ao topo](#Clone-Netflix)<br>
